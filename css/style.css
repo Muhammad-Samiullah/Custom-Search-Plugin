@@ -1,0 +1,16 @@
+#plugin-search-btn {
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(245,187,85);
+    border: 1px solid rgb(245,187,85);
+}
+
+#plugin-search-btn:hover {
+    color: rgb(245,187,85);
+    background-color: white;
+    transition: 0.5 ease;
+}
+
+#plugin-search-input {
+    border-radius: 5px;
+}
